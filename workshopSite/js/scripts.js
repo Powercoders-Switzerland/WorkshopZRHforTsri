@@ -43,7 +43,7 @@ function recalculateIngre() {
 
 // This is the function that gets called every 10 seconds
 function slideImage() {
-    //Add some code here to add an image slider functionality. Have a look at the img folder and see what's in there. Hint: you have to change the variable picturePointer in a specific way
+    //Add some code here to add an image slider functionality. Have a look at the img folder and see what's in there. Hint: you have to change the variable picturePointer in a specific wayjava 
     //Add code under here
     
     //Add code over here
